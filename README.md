@@ -18,7 +18,7 @@ npm i -g @tmcknight/netlify-ddns-updater
 
 Updates an A record with your external IP address.
 
-### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain>`
+### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain> -i <ipAddress>`
 
 Updates an A record with IP address.
 
