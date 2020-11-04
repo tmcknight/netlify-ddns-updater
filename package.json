@@ -1,0 +1,29 @@
+{
+  "name": "@tmcknight/netlify-ddns-updater",
+  "version": "0.1.0",
+  "description": "Update Netlify with Dynamic DNS entry",
+  "main": "command.js",
+  "bin": {
+    "netlify-ddns-updater": "cli.js"
+  },
+  "dependencies": {
+    "netlify": "^4.9.0",
+    "public-ip": "^4.0.2",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tmcknight/netlify-ddns-updater"
+  },
+  "keywords": [
+    "netlify",
+    "ddns",
+    "dynamic dns"
+  ],
+  "author": "Tom McKnight <tom@tmcknight.dev> (https://tmcknight.dev)",
+  "license": "MIT"
+}
