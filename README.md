@@ -14,11 +14,11 @@ npm i -g @tmcknight/netlify-ddns-updater
 
 ## Available Commands
 
-### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain>`
+#### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain>`
 
 Updates an A record with your external IP address.
 
-### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain> -i <ipAddress>`
+#### `netlify-ddns-updater -t <accessToken> -d <domain> -s <subdomain> -i <ipAddress>`
 
 Updates an A record with IP address.
 
