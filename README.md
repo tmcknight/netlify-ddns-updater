@@ -4,7 +4,7 @@
 
 ## Description
 
-Update an **A** DNS record at [Netlify's Managed DNS service] (https://www.netlify.com/docs/dns/) with your public IP address.
+Update an **A** DNS record at [Netlify's Managed DNS service](https://www.netlify.com/docs/dns/) with your public IP address.
 
 ## Install
 
