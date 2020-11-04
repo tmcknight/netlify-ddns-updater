@@ -1,7 +1,7 @@
 {
   "name": "@tmcknight/netlify-ddns-updater",
   "version": "0.1.0",
-  "description": "Update Netlify with Dynamic DNS entry",
+  "description": "Update an A DNS record at Netlify's Managed DNS service with your public IP address.",
   "main": "command.js",
   "bin": {
     "netlify-ddns-updater": "cli.js"
